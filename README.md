@@ -18,11 +18,9 @@ Ali Etemad
 - [x] Paper
 - [x] Pretrained model weights
 - [ ] Evaluation codes
-- [] Training codes
+- [ ] Training codes
 
-#### ** Please check the project website for more details. The codes will be released soon. You may follow this repo to receive future updates. **
-
-![RDDM](/docs/assets/images/rddm.png?raw=true "RDDM")
+#### ** The codes will be released soon. You may follow this repo to receive future updates. **
 
 
 ### Abstract
