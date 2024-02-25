@@ -16,9 +16,10 @@ Ali Etemad
 
 ### Updates
 - [x] Paper
-- [ ] Pretrained model weights
-- [ ] Evaluation codes
-- [ ] Training codes
+- [ ] Pretrained diffusion weights
+- [ ] CardioBench
+- [ ] Training code
+- [ ] Standard evaluation code
 
 #### ** The codes will be released soon. You may follow this repo to receive future updates. **
 
