@@ -43,7 +43,5 @@ If you find this repository useful, please consider giving a star :star: and cit
 ```
 
 ### Acknowledgments
-We are grateful to **Bank of Montreal** and **Mitacs** for funding this research. We are also thankful to **SciNet HPC Consortium** for helping with the computation resources.
-
-### Question
-You may directly contact me at <pritam.sarkar@queensu.ca> or connect with me on [LinkedIn](https://www.linkedin.com/in/sarkarpritam/).
+This work was supported by Mitacs, Vector Institute, and
+Ingenuity Labs Research Institute.
