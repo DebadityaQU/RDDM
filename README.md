@@ -16,7 +16,7 @@ Ali Etemad
 
 ### Updates
 - [x] Paper
-- [] Pretrained model weights
+- [ ] Pretrained model weights
 - [ ] Evaluation codes
 - [ ] Training codes
 
