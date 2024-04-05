@@ -16,10 +16,11 @@ Ali Etemad
 
 ### Updates
 - [x] Paper
+- [x] RDDM algorithm
+- [ ] Training code
 - [ ] Pretrained diffusion weights
 - [ ] CardioBench
-- [ ] Training code
-- [ ] Standard evaluation code
+- [x] Evaluation code
 
 #### ** The codes will be released soon. You may follow this repo to receive future updates. **
 
