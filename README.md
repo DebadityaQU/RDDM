@@ -18,7 +18,7 @@ Ali Etemad
 - [x] Paper
 - [x] RDDM algorithm
 - [x] Training code
-- [x] Pretrained diffusion weights
+- [x] Pretrained diffusion weights (https://drive.google.com/drive/folders/1Z7JQ5VdTrekx4lbARJNIUiR5D-4Kz7wg?usp=sharing)
 - [ ] CardioBench
 - [x] Evaluation code
 
